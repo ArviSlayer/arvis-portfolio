@@ -1185,7 +1185,10 @@ textarea.form-input::-webkit-resizer { display: none; }
    * client
    */
 
-  .clients-item { min-width: calc(33.33% - 10px); }
+.clients-item img{ 
+    min-width: calc(25% - 38px);
+    border-radius: 50%;
+   }
 
 
 
