@@ -1395,7 +1395,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     align-items: stretch;
     gap: 25px;
     padding: 30px;
-    border-radius: 20px;
+    border-radius: 50px;
   }
 
   .modal-img-wrapper {
@@ -1405,7 +1405,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .modal-avatar-box {
-    border-radius: 50px;
+    border-radius: 18px;
     margin-bottom: 0;
   }
 
@@ -1414,7 +1414,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .modal-img-wrapper > img {
     display: block;
     flex-grow: 1;
-    width: 35px;
+    width: 50px;
   }
 
   /* clients */
