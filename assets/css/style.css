@@ -1415,6 +1415,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     display: block;
     flex-grow: 1;
     width: 35px;
+   border-radius: 50%;
   }
 
   /* clients */
